@@ -1,1 +1,0 @@
-var e={tennis:{label:`טניס`,minutes:90},padel:{label:`פאדל`,minutes:90},running:{label:`ריצה`,minutes:40},cycling:{label:`רכיבה`,minutes:60},swimming:{label:`שחייה`,minutes:45},yoga:{label:`יוגה`,minutes:60},pilates:{label:`פילאטיס`,minutes:50},football:{label:`כדורגל`,minutes:90},basketball:{label:`כדורסל`,minutes:90},hiking:{label:`הליכה בטבע`,minutes:120}};export{e as t};

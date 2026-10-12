@@ -1,0 +1,1 @@
+import{i as e,o as t}from"./cap-RPTii8vE.js";var n=`FormaSystem`;async function r(r){if(!e())return!1;let i=await t(n,r,void 0,{});return typeof i.opened==`string`&&i.opened}var i=()=>r(`openAppSettings`),a=()=>r(`openNotificationSettings`),o=()=>r(`openBluetoothSettings`),s=()=>r(`openLocationSettings`);export{a as i,o as n,s as r,i as t};
