@@ -1,6 +1,6 @@
 // פורמה עובדת גם בלי רשת (בחדר כושר במרתף, למשל).
 // הדף עצמו: קודם רשת, ואם אין — מהמטמון. קבצים עם hash ותמונות הדגמה: קודם מטמון.
-const VERSION = "forma-20261013062043";
+const VERSION = "forma-20261013202033";
 
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(VERSION).then((c) => c.addAll(["./", "./index.html", "./manifest.webmanifest", "./favicon.svg", "./icon-192.png"])));
