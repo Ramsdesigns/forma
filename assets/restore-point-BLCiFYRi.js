@@ -1,0 +1,1 @@
+import{r as e,s as t}from"./store-DswPpbUc.js";var n=[`plan`,`planWeekStart`];function r(...n){let r=e(),i=Object.fromEntries(n.map(e=>[e,r[e]]));return()=>t(()=>i)}export{r as n,n as t};
